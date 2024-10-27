@@ -1,0 +1,3 @@
+com\spring_boot\rest_api\bean\Student.class
+com\spring_boot\rest_api\RestApiApplication.class
+com\spring_boot\rest_api\controller\StudentController.class
